@@ -23,23 +23,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ---------------
 ## 💭 Reflection and Self Assessment
 
-**I learned:** (repeat as needed)
+**I learned:** I learned how to use Git through VS Code.
 - .
 
-**I struggled with:** (repeat as needed)
+**I struggled with:** I struggled with pushing the changes.
 - .
 
-**I need the instructor to help me with:** (repeat as needed)
+**I need the instructor to help me with:** I needed help with figuring out why I was getting an error regarding the permissions.
 - .
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get 14 out of 20. I was late to submit the assignment and needed extra help.
 
 
 ## 📚 References and Citations
-**I used the following links, books, and other resources in my work:** (repeat as needed)
+**I used the following links, books, and other resources in my work:** I used the videos under Module 1.
 - .
   
-**I received help from the following people:** (repeat as needed)
+**I received help from the following people:** My instructor helped me figure out my error.
 - . 
 
 ---
